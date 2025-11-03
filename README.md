@@ -18,7 +18,7 @@
 
 <h2>🔧 Ferramentas e Tecnologias</h2>
 <ul>
-    <li><strong>Game Engines</strong>: Unity, GameMaker</li>
+    <li><strong>Game Engines</strong>: Unity, GameMaker, Unreal</li>
     <li><strong>Linguagens e Frameworks</strong>: C#, JavaScript, Java, Angular, HTML, CSS, Node.js, SQL, PHP, GML, Laravel</li>
 </ul>
 
