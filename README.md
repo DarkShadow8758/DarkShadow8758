@@ -1,54 +1,94 @@
-<h1>👋 Olá, sou Gabriel Sales!</h1>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I%20am%20Gassa.&fontSize=70&color=0:ccc1e9,100:b678c4&stroke=b678c4)
 
-<h3>🎮 Game Designer | 👨‍💻 Desenvolvedor Full-Stack | 🎨 Level Designer</h3>
+&#x1f1e7;&#x1f1f7;, São Paulo
 
-<hr>
+🚀 **🎮 Game Developer | 🎨Technical Artist**
 
-<h2>Sobre Mim</h2>
-<p>
-    Sou um apaixonado por desenvolvimento de jogos com uma missão: transformar ideias em experiências de jogo memoráveis.
-    Estudante de Análise e Desenvolvimento de Sistemas na Fatec e Jogos Digitais na UNISO, descobri minha verdadeira paixão ao mergulhar no mundo
-    do game design, onde posso combinar minha criatividade e habilidades técnicas para dar vida a jogos interativos.
+I build immersive games, scalable SaaS platforms, and high-performance systems.
+
+I’m deeply focused on Technical Art, Clean Architecture, and seamless UI/UX solutions that bridge the gap between code and visuals.
+
+I also explore the intersection of tech entrepreneurship and game development, creating content on modern stacks and interactive media.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/DarkShadow8758">
+    <img src="https://img.shields.io/badge/GitHub-DarkShadow8758-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/gassashadow/">
+    <img src="https://img.shields.io/badge/Instagram-@GASSASHADOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-<p>
-    Tenho 19 anos e, desde 2021, venho desenvolvendo programas, sites e jogos, além de participar ativamente de eventos da área. 
+
+---
+
+## 🧠 What I do
+
+-   ✨ UI Materials & Responsivity
+-   🎨 Technical Art & VFX
+-   ⚔️ Gameplay Ability System (GAS)
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Game Development
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darkshadow8758&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadow8758&layout=compact&theme=radical" />
 </p>
 
-<hr>
+---
 
-<h2>🔧 Ferramentas e Tecnologias</h2>
-<ul>
-    <li><strong>Game Engines</strong>: Unity, GameMaker, Unreal</li>
-    <li><strong>Linguagens e Frameworks</strong>: C#, JavaScript, Java, Angular, HTML, CSS, Node.js, SQL, PHP, GML, Laravel</li>
-</ul>
+## 🚀 Philosophy
 
-<h2>💡 Áreas de Atuação</h2>
-<ul>
-    <li><strong>Game Design</strong>: Criação e desenvolvimento de mecânicas, progressão e narrativa de jogos.</li>
-    <li><strong>Level Design</strong>: Concepção de fases e desafios que garantam uma experiência imersiva.</li>
-    <li><strong>Desenvolvimento Full-Stack</strong>: Experiência em tecnologias e frameworks que permitem construir jogos e aplicações robustas e escaláveis.</li>
-</ul>
+> _"Design is not just about how it looks, but how it orks..  
+> In games, code is the soul that brings the art to life."_
 
-<hr>
+---
 
-<h2>🚀 Objetivos</h2>
-<ul>
-    <li><strong>Aprendizado Contínuo</strong>: Sempre aberto a aprender novas ferramentas e aprimorar minhas habilidades em desenvolvimento e design de jogos.</li>
-    <li><strong>Colaboração e Networking</strong>: Conectar com outros profissionais da área para troca de ideias e colaboração em projetos criativos.</li>
-</ul>
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
 
-<hr>
-
-<h2>📫 Contato</h2>
-<p>
-    Sinta-se à vontade para me contatar e conhecer mais sobre meu trabalho:
-</p>
-<ul>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/gabriel-sales-dorea-b57725212/">Gabriel Sales</a></li>
-    <li><strong>E-mail</strong>: <a href="mailto:salesdoreagabriel@gmail.com"> salesdoreagabriel@gmail.com</a></li>
-    <li><strong>Twitter</strong>: <a href="https://x.com/BaduckStudios/">Baduck Studios</a>
-</ul>
-
-<hr>
-
-<p>Obrigado por visitar meu perfil! Vamos criar algo incrível juntos!</p>
