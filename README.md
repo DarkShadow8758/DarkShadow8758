@@ -4,7 +4,7 @@
 
 🚀 **🎮 Game Developer | 🎨Technical Artist**
 
-I build immersive games, scalable SaaS platforms, and high-performance systems.
+I create gameplay systems, UI and VFX that connect code and visuals in real-time.
 
 I’m deeply focused on Technical Art, Clean Architecture, and seamless UI/UX solutions that bridge the gap between code and visuals.
 
@@ -28,14 +28,10 @@ I also explore the intersection of tech entrepreneurship and game development, c
 ## 🧠 What I do
 
 -   ✨ UI Materials & Responsivity
--   🎨 Technical Art & VFX
--   ⚔️ Gameplay Ability System (GAS)
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
+-   🎮 Gameplay systems (combat, abilities, interactions)
+-   🎨 Shader-based UI & VFX
+-   ⚡ Performance optimization for real-time systems
+-   🧠 Game architecture & modular systems
 
 ---
 
@@ -84,11 +80,12 @@ I also explore the intersection of tech entrepreneurship and game development, c
 
 ## 🚀 Philosophy
 
-> _"Design is not just about how it looks, but how it orks..  
+> _"Design is not just about how it looks, but how it works..  
 > In games, code is the soul that brings the art to life."_
 
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+🤝 Currently looking for opportunities in Game Development / Technical Art  
+🎯 Open to internships, freelance and collaborations
 
